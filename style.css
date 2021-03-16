@@ -1,0 +1,22 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 0em;
+}
+
+.cover {
+  height: 470px;
+  background-image: url(https://cdn.glitch.com/ca79fcd6-495a-4cdc-b1c0-e3362a7a7d7b%2Frsz_karim-manjra-6ybgclrzy_w-unsplash.jpg?v=1615925821191);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: darken;
+}
+
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5),
+    0 2px 4px -1px rgba(0, 0, 0, 0.1);
+
+}
